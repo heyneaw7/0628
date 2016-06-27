@@ -1,0 +1,13 @@
+.videoview {
+	width: 80%;
+	text-align: center;
+	margin:auto;
+	padding: 40px 0px;
+}
+.pollution .bg-air {
+	background: url("airpolution.jpg") no-repeat center;
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
+	display: block;
+}
