@@ -1,13 +1,70 @@
 .videoview {
-	width: 80%;
+	width: 100%;
 	text-align: center;
-	margin:auto;
+	margin: auto;
 	padding: 40px 0px;
 }
-.pollution .bg-air {
-	background: url("airpolution.jpg") no-repeat center;
+.polution {
+	min-height: 300px;
+}
+.bg-air {
+	background: url('../images/airpolution.jpg') no-repeat center;
 	background-size: cover;
-	height: 100%;
 	overflow: hidden;
 	display: block;
+}
+.textinside {
+	padding: 10%;
+}
+.bg-air h2 {
+	font: 30px;
+	color: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.bg-air h3 {
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+}
+.text-air h1 {
+	padding-bottom: 15px;
+}
+.text-air {
+	background-color: #f0f0f0;
+	padding: 50px 0px;
+	text-align: center;
+}
+.textline {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.aurologo {
+	padding-bottom: 20px;
+}
+.textline p {
+	color: #4a4a4a;
+}
+.bg-threecolor {
+	padding: 80px;
+	color:#E55949;
+}
+.bg-threecolor img {
+  vertical-align: middle;
+	padding-bottom: 20px;
+	padding-left:35px;
+	padding-right: 35px;
+}
+.bg-threecolor redled {
+	text-align: center;
+}
+.bg-prettywoman {
+	text-align: right;
+}
+.auromask product {
+	background: url("imgages/auro_product.png") center;
+	background-size: cover;
+	min-height:300px;
 }

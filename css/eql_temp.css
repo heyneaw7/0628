@@ -3,7 +3,7 @@
 /* EQL Template_last updated 2016-06-22 */
 
 html, body {
-	font-family: 'Palanquin', sans-serif;
+	font-family: sans-serif;
 }
 
 
@@ -161,12 +161,7 @@ html, body {
 
 	a:hover{ text-decoration:none; }
 
-  .videoview {
-		width: 60%;
-		text-align: center;
-		margin:auto;
-		padding: 40px 0px;
-	}
+
 
 
 
